@@ -6,7 +6,7 @@ import Home from "./components/Home";
 import Favour from "./components/Favour";
 import Details from "./components/Details";
 import Error from "./components/Error";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 import GlobalState from "./components/Context";
 import Contact from "./components/Contact";
 import PrivacyPolicy from "./components/PrivacyPolicy";
